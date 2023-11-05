@@ -8,3 +8,6 @@
         nameserver 8.8.8.8</br>
         nameserver 8.8.4.4</br>
         options edns0 trust-ad</br>
+
+    - copy image
+    > scp ./update.img linaro@192.168.0.9:~/
