@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ls
+sudo adb shell "lsusb"
